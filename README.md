@@ -159,8 +159,8 @@ sequenceDiagram
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-org/amazon-brand-intelligence.git
-    cd amazon-brand-intelligence
+    git clone https://github.com/aaryan182/amazon-brand-intelligence-pipeline.git
+    cd amazon-brand-intelligence-pipeline
     ```
 
 2.  **Install Dependencies**
@@ -292,12 +292,12 @@ amazon-brand-intelligence/
 ```
 
 ## Time Log (Estimated)
-- **Phase 1 (Setup & Architecture)**: 4 hours
-- **Phase 2 (Core Services & API)**: 6 hours
-- **Phase 3 (Data Extraction)**: 8 hours
-- **Phase 4 (Strategic Analysis)**: 6 hours
-- **Phase 5 (Pipeline Orchestration)**: 5 hours
-- **Phase 6 (CLI & Reporting)**: 4 hours
-- **Phase 7 (Testing & QA)**: 5 hours
-- **Phase 8 (Documentation)**: 2 hours
-- **Total**: ~40 hours
+- **Phase 1 (Setup & Architecture)**: 1 hour
+- **Phase 2 (Core Services & API)**: 2 hour
+- **Phase 3 (Data Extraction)**: 1 hour
+- **Phase 4 (Strategic Analysis)**: 1 hour
+- **Phase 5 (Pipeline Orchestration)**: 2 hour
+- **Phase 6 (CLI & Reporting)**: 1 hour
+- **Phase 7 (Testing & QA)**: 2 hour
+- **Phase 8 (Documentation)**: 1 hour
+- **Total**: ~11 hours
