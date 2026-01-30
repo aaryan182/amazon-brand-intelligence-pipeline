@@ -1,0 +1,43 @@
+{
+    "swot_analysis": {
+        "strengths": [
+            "Strong brand equity",
+            "Sustainability focus"
+        ],
+        "weaknesses": [
+            "Higher price point",
+            "Limited lower-end selection"
+        ],
+        "opportunities": [
+            "Expand into technical workwear",
+            "Bundle offers"
+        ],
+        "threats": [
+            "Fast fashion copies",
+            "Supply chain disruptions"
+        ]
+    },
+    "market_position": "leader",
+    "brand_identity": {
+        "core_values": [
+            "Sustainability",
+            "Durability"
+        ],
+        "target_audience": [
+            "Outdoor enthusiasts",
+            "Eco-conscious consumers"
+        ],
+        "voice": "Authentic, Adventurous"
+    },
+    "recommendations": [
+        {
+            "priority": "high",
+            "title": "Enhance Storefront Sustainability Story",
+            "description": "Dedicate a section to Worn Wear program.",
+            "impact": "Increased conversion among eco-conscious buyers",
+            "difficulty": "medium",
+            "timeline": "1-2 months"
+        }
+    ],
+    "executive_summary": "Patagonia maintains a dominant position in the premium outdoor segment. Amazon presence is strong but could better leverage brand storytelling features."
+}

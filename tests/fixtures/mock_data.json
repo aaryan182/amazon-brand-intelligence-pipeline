@@ -1,0 +1,55 @@
+{
+    "mock_products": [
+        {
+            "asin": "B08N5WRWNW",
+            "title": "Nike Air Max 270 Men's Running Shoes",
+            "brand": "Nike",
+            "price": 150.00,
+            "rating": 4.5,
+            "reviews": 12543,
+            "is_prime": true
+        },
+        {
+            "asin": "B09DFCB66S",
+            "title": "Nike Dri-FIT Training T-Shirt",
+            "brand": "Nike",
+            "price": 35.00,
+            "rating": 4.3,
+            "reviews": 8921,
+            "is_prime": true
+        }
+    ],
+    "mock_brand_data": {
+        "brand_name": "Nike",
+        "category": "sports-outdoors",
+        "metrics": {
+            "total_products": 50,
+            "average_rating": 4.4,
+            "total_reviews": 125000,
+            "price_range": [20.00, 250.00],
+            "prime_percentage": 85.0
+        },
+        "competitors": ["Adidas", "Under Armour", "Puma", "New Balance"]
+    },
+    "mock_analysis": {
+        "market_position": "leader",
+        "strengths": [
+            "Strong brand recognition",
+            "Wide product portfolio",
+            "Premium pricing power"
+        ],
+        "weaknesses": [
+            "Higher price point limits budget market",
+            "Supply chain dependencies"
+        ],
+        "opportunities": [
+            "Growing athleisure market",
+            "Direct-to-consumer expansion"
+        ],
+        "threats": [
+            "Intense competition",
+            "Counterfeit products"
+        ],
+        "summary": "Nike maintains market leadership with strong brand equity and product innovation."
+    }
+}

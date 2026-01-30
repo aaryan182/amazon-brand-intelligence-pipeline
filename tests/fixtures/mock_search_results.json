@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Patagonia Men's Better Sweater 1/4-Zip Fleece",
+        "link": "https://www.amazon.com/Patagonia-Mens-Better-Sweater-Fleece/dp/B07XYZ1234",
+        "price": "$139.00",
+        "rating": 4.8,
+        "reviews": 1250,
+        "asin": "B07XYZ1234",
+        "thumbnail": "https://example.com/image.jpg",
+        "snippet": "Warm, low-bulk quarter-zip fleece made of soft, rib-knit polyester fleece."
+    },
+    {
+        "title": "Patagonia Black Hole Duffel 55L",
+        "link": "https://www.amazon.com/Patagonia-Black-Hole-Duffel-55L/dp/B08ABC5678",
+        "price": "$169.00",
+        "rating": 4.9,
+        "reviews": 850,
+        "asin": "B08ABC5678",
+        "thumbnail": "https://example.com/duffel.jpg",
+        "snippet": "Burly, highly weather-resistant duffel bag for long weekends."
+    }
+]

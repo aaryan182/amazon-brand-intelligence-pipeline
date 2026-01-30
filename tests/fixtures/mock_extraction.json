@@ -1,0 +1,33 @@
+{
+    "brand_name": "Patagonia",
+    "domain": "patagonia.com",
+    "amazon_presence": {
+        "found": true,
+        "storefront_url": "https://www.amazon.com/stores/Patagonia/page/123",
+        "product_count": 450,
+        "average_rating": 4.7,
+        "review_count": 15000,
+        "confidence_score": 0.95
+    },
+    "key_products": [
+        {
+            "name": "Better Sweater",
+            "asin": "B07XYZ1234",
+            "price": 139.00,
+            "rating": 4.8,
+            "review_count": 1250,
+            "url": "https://www.amazon.com/dp/B07XYZ1234"
+        }
+    ],
+    "categories": [
+        "Clothing",
+        "Outdoor Gear",
+        "Bags"
+    ],
+    "competitors": [
+        "The North Face",
+        "Columbia",
+        "Arc'teryx"
+    ],
+    "extracted_at": "2024-01-29T12:00:00Z"
+}

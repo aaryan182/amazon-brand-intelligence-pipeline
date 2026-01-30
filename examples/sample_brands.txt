@@ -1,0 +1,13 @@
+# Sample brands for analysis
+# One brand per line
+
+Nike
+Apple
+Samsung
+Sony
+Anker
+Bose
+Logitech
+JBL
+Philips
+LG

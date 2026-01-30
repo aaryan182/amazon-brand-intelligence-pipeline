@@ -1,0 +1,121 @@
+{
+  "created_at": "2026-01-29T06:20:14.701784+00:00",
+  "updated_at": null,
+  "report_id": "622093e3-cccb-4e8c-bb1f-6a7d9c67354b",
+  "title": "Brand Intelligence Report: Localcoffeeroasters",
+  "brand_name": "Localcoffeeroasters",
+  "domain": "localcoffeeroasters.com",
+  "extraction_result": {
+    "created_at": "2026-01-29T06:20:14.691492+00:00",
+    "updated_at": null,
+    "id": "96f10122-2445-4445-bbc2-51b1db1de010",
+    "brand_name": "Localcoffeeroasters",
+    "domain": "localcoffeeroasters.com",
+    "amazon_presence": {
+      "found": false,
+      "confidence": "low",
+      "evidence": [
+        "No products found",
+        "Low review volume: 0 reviews"
+      ],
+      "official_store_url": null,
+      "verified_seller": false
+    },
+    "primary_category": null,
+    "estimated_product_count": 0,
+    "top_products": [],
+    "all_categories": [],
+    "price_range": null,
+    "average_rating": null,
+    "total_reviews": 0,
+    "competitors_found": [],
+    "metadata": {
+      "search_queries_used": [],
+      "extraction_duration_seconds": 4.57763671875e-8,
+      "api_calls_made": 1,
+      "data_source": "serpapi",
+      "cache_hit": false
+    }
+  },
+  "strategic_insight": {
+    "market_position": "emerging",
+    "market_position_rationale": "Localcoffeeroasters does not currently have a presence on Amazon. This represents a significant opportunity for market entry and growth.",
+    "swot": {
+      "strengths": [
+        "Established brand identity outside Amazon"
+      ],
+      "weaknesses": [
+        "No Amazon marketplace presence",
+        "No existing reviews or ratings"
+      ],
+      "opportunities": [
+        "Untapped Amazon customer base",
+        "Fresh start with optimized listings",
+        "Competitor analysis before entry"
+      ],
+      "threats": [
+        "Established competitors already on Amazon",
+        "Initial visibility challenges",
+        "Learning curve for Amazon operations"
+      ]
+    },
+    "competitive_advantages": [
+      "Brand reputation from other channels"
+    ],
+    "risk_factors": [
+      "High investment required for initial launch",
+      "Time to build reviews and rankings"
+    ],
+    "growth_recommendations": [
+      "Develop Amazon entry strategy",
+      "Research competitor pricing and positioning",
+      "Create optimized product listings",
+      "Plan launch marketing and early review strategy",
+      "Consider Amazon Advertising budget"
+    ],
+    "recommendations": [],
+    "competitor_insights": [],
+    "estimated_market_share": null,
+    "brand_health_score": 25.0,
+    "confidence_score": 0.5,
+    "executive_summary": "Localcoffeeroasters is not currently selling on Amazon, representing a significant market opportunity. A strategic entry focusing on optimized listings and competitive pricing could capture market share. Immediate priority: Develop comprehensive Amazon launch strategy."
+  },
+  "report_format": "json",
+  "generated_by": "Amazon Brand Intelligence Pipeline",
+  "pipeline_version": "1.0.0",
+  "pipeline_run_id": "366a3028-a42c-4abb-abdf-08bf0593bdb7",
+  "total_duration_ms": 7051,
+  "step_results": [],
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "Localcoffeeroasters is not currently selling on Amazon, representing a significant market opportunity. A strategic entry focusing on optimized listings and competitive pricing could capture market share. Immediate priority: Develop comprehensive Amazon launch strategy.",
+      "order": 1,
+      "subsections": []
+    },
+    {
+      "title": "Market Position",
+      "content": "**Position:** emerging\n\nLocalcoffeeroasters does not currently have a presence on Amazon. This represents a significant opportunity for market entry and growth.",
+      "order": 2,
+      "subsections": []
+    },
+    {
+      "title": "Amazon Presence Overview",
+      "content": "**Average Rating:** N/A",
+      "order": 3,
+      "subsections": []
+    },
+    {
+      "title": "SWOT Analysis",
+      "content": "### Strengths\n- Established brand identity outside Amazon\n\n### Weaknesses\n- No Amazon marketplace presence\n- No existing reviews or ratings\n\n### Opportunities\n- Untapped Amazon customer base\n- Fresh start with optimized listings\n- Competitor analysis before entry\n\n### Threats\n- Established competitors already on Amazon\n- Initial visibility challenges\n- Learning curve for Amazon operations",
+      "order": 4,
+      "subsections": []
+    },
+    {
+      "title": "Strategic Recommendations",
+      "content": "1. Develop Amazon entry strategy\n2. Research competitor pricing and positioning\n3. Create optimized product listings\n4. Plan launch marketing and early review strategy\n5. Consider Amazon Advertising budget",
+      "order": 5,
+      "subsections": []
+    }
+  ]
+}
